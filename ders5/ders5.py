@@ -3,7 +3,6 @@
 """
 Created on Wed May 15 23:34:06 2019
 
-@author: veysel
 """
 
 

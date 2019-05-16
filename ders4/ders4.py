@@ -1,13 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Spyder Editor
-
-This is a temporary script file.
+plt.plot() ve plt.scatter() arasındaki fark
 """
-
-
-"""plt.plot() ve plt.scatter() arasındaki fark"""
-
 import numpy as np
 import matplotlib.pyplot as plt
 
