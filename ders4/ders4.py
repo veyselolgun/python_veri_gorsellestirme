@@ -11,10 +11,10 @@ import matplotlib.pyplot as plt
 x = np.array([1,2,3,4,5])
 y = np.array([3,4,5,6,7])
 
-
-plt.subplot(2,2,1)
+# 1. düzleme plt.plot ile çiz
+plt.subplot(2,2,1) 
 plt.plot(x,y)
 
-
+# 3. düzleme plt.scatter ile çiz
 plt.subplot(2,2,3)
 plt.scatter(x,y)
